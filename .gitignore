@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.code-workspace
+*.pyc
+*.swo
+*.swp
+*~
+
+# Project-specific files (modify as needed)
+config.ini
+secrets.ini
+
+# Logs
+logs/
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Cached files
+*.cache/
+
+# Other
+*.bak
+*.tmp
+.DS_Store
